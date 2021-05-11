@@ -1,0 +1,60 @@
+*{box-sizing:border-box;}
+body{margin:0;}
+a{text-decoration:none;}
+a:link, a:visited,a:active{color:inherit;}
+header{ background:skyblue;}
+nav{background: pink;}
+aside{background:rgb(247, 245, 245)}
+footer{background:rgb(236, 117, 117);}
+
+ #main{
+     display:flex; /* 기본값은 row이므로 div 내부의 main과 article이 row 방향으로 정렬됨*/
+ }
+ .header{
+     padding:3%;
+    /*height:150px;*/
+    height:20%;
+    text-align:center;
+ }
+ .content{
+     flex:35%; /*basis의 기본 값*/
+ }
+ .aside{
+     flex:65%; /*basis*/
+ }
+ .navbar{
+     display:flex;
+     justify-content:flex-end;
+ }
+ .navbar a{
+     padding:8px;
+     margin-right:20px;
+ }
+ .navbar a:hover{
+     color:black;
+     background-color:white;
+ }
+ .aside, .content{
+     padding:40px;
+ }
+ footer{
+     height:20%;
+     padding:3%;
+     text-align:center;
+ }
+ html, body{
+     height:100%; /* 전제 조건  */
+ }
+ body{
+     display:flex;
+     flex-direction:column; /* 전체가 수직 방향으로 정렬됨 */
+ }
+ #main{
+     flex:1; /* flex-grow:1 - 화면 크기가 변경됨에 따라 전체 main 변동됨. 나머지는 디폴트값 0*/
+ }
+ .foot{
+     flex-shrink:0; /* 줄여도 바뀌지 않음 */
+ }
+ h1, footer{
+     font-size:150%;
+ }
