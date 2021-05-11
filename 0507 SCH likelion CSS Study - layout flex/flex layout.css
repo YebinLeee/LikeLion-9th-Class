@@ -1,0 +1,96 @@
+#header{
+  background-color:grey;
+  height:20vh;
+  text-align:center;
+  color:white;
+  /*display:flex;
+  justify-content:center;
+  align-itmes:center;
+  */
+}
+.container{
+  display:flex;
+  height:70vh;
+  text-align:center;
+}
+#left{
+  flex:1;
+  flex-basis:20%;
+  background-color:yellow;
+}
+#center{
+  flex:1;
+  flex-basis:60%;
+  background-color:#2424;
+  
+}
+#right{
+  flex:1;
+  flex-basis:20%;
+  background-color:orange;
+}
+
+#footer{
+  background-color:grey;
+  height:20vh;
+  text-align:center;
+  color:white;
+  /*display:flex;
+  justify-content:center;
+  align-itmes:center;
+  */
+}
+
+/*
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+
+.container{
+  
+  /* 화면 크기에 반응하여 항상 센터에 위치하도록 */
+  /*justify-content:center;*/
+  
+  /*각 요소 사이의 공백이 동일하게. 화면을 넘어가는 경우에는 다음 줄로 이동*/
+  /*justify-content:space-between;*/
+ 
+  /*요소 양 옆에 모두 동일한 공백을 가짐. 양 옆 포함*/
+  /*justify-content:space-around;*/
+  
+  /*수직(세로방향) 축 정렬*/
+  
+  /*
+  height:100px;
+  align-itmens:flex-end;
+*/
+  
+  
+  height:10px;
+  justify-content:center;
+  align-itmens:center;
+  
+  display:flex;
+  /* flex-direction:column; */
+  
+  /* 자동 줄바꿈 처리: width 값은 모두 동일하게 유지한채 줄바꿈 ex) youtube 영상 */
+  flex-wrap:wrap;
+}
+
+.number{
+  background-color:skyblue;
+  border:1px solid black;
+  padding:15px;
+  flex-basis:10%;
+  flex-shrink:1;
+}
+.number:nth-child(1){
+  /*flex-shink 값을 0으로 정하여 container폭을 변경하여도 폭이 바뀌지 않도록 */
+  flex-shrink:0;
+  background-color:red;
+  width:100px;
+}
+.number:nth-child(2){
+  background-color:orange;
+}
+
+*/
+
+
