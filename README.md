@@ -1,4 +1,4 @@
-# LikeLion-9th-Class
+# 🦁💻 LikeLion-9th-Class
 
 - 0426 ClassLion Class WebBasic Practice -> [View the page](https://yebinleee.github.io/LikeLion-9th-Class/0426%20ClassLion%20WebBasic%20Class/index.html)
 - 0426 SCH likelion Adobe XD Assignment - Github Web Page Clone
