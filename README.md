@@ -12,3 +12,6 @@
 
 - 🦁💻 0501 ClassLion Class CSS - Flex Layout Practice -> [View the page](https://yebinleee.github.io/LikeLion-9th-Class/0501%20ClassLion%20Class%20-%20CSS%20Flex/flex-layout.html)
 - 🦁💻 0507 SCH likelion Study - CSS Flex Layout -> [View the page](https://yebinleee.github.io/LikeLion-9th-Class/0507%20SCH%20likelion%20CSS%20Study%20-%20layout%20flex/flex%20layout.html)
+
+- 🦁💻 0511 ClassLion Python Class - Basic
+- 🦁💻 0512 SCH likelion Session - Python Basic 1
