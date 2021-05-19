@@ -17,3 +17,5 @@
 - 0512 SCH likelion Session - Python Basic 1
 
 - 0511 SCH likelion 02 HTML/CSS Youtube Layout Assignment - > [View the page](https://YebinLeee.github.io/LikeLion-9th-Class/0511%20SCH%20likelion%20HTML%20CSS%20Assignment%20-%20Youtube%20Layout/youtube%20layout.html)
+
+- 0517 SCH likelion 03 Python Assignment - Basic 1
