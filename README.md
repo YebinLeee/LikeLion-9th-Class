@@ -21,3 +21,5 @@
 - 0517 SCH likelion 03 Python Assignment - Basic 1
 
 - 0519 SCH likelion Session - Python Basic 2
+
+- 0522 SCH lieklion 04 Python Assignment = Basic 2
