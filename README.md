@@ -22,6 +22,8 @@
 
 - 0519 SCH likelion Session - Python Basic 2
 
-- 0522 SCH lieklion 04 Python Assignment = Basic 2
+- 0522 SCH lieklion 04 Python Assignment - Basic 2
 
 - 0526 SCH likelion Session - Python Basic 3 (def, class)
+
+- 0526 SCH likelion Python Assignment - Basic 3 Making My Own Class
