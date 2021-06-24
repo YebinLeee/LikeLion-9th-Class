@@ -26,6 +26,8 @@
 
 - 0526 SCH likelion Session - Python Basic 3 (def, class)
 
-- 0526 SCH likelion Python Assignment - Basic 3 Making My Own Class
+- 0526 SCH likelion Python 05 Assignment - Basic 3 Making My Own Class
 
-- 0617 ClassLion, 0618 SCH likelion Django Session/Assignment - Basic 
+- 0617 ClassLion, 0618 SCH likelion Django Session / 06 Assignment - Basic 
+
+- 0622 SCH likelion Django Session / 0624 07 Assigment - CRUD, model, static media
