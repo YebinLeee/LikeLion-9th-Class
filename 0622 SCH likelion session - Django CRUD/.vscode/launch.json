@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\이예빈\\Desktop\\LikeLion-9th-Class\\0622 SCH likelion session - Django CRUD",
+      "environment": [],
+      "program": "c:\\Users\\이예빈\\Desktop\\LikeLion-9th-Class\\0622 SCH likelion session - Django CRUD\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "externalConsole": false
+    }
+  ]
+}
